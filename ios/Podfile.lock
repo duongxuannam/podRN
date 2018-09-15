@@ -1,0 +1,49 @@
+PODS:
+  - BVLinearGradient (2.4.2):
+    - React
+  - JTSImageViewController (1.5.1)
+  - lottie-ios (2.5.0)
+  - lottie-react-native (2.3.2):
+    - lottie-ios
+    - React
+  - React (0.57.0):
+    - React/Core (= 0.57.0)
+  - React/Core (0.57.0):
+    - yoga (= 0.57.0.React)
+  - yoga (0.57.0.React)
+
+DEPENDENCIES:
+  - BVLinearGradient (from `../node_modules/react-native-linear-gradient`)
+  - JTSImageViewController
+  - lottie-ios (from `../node_modules/lottie-ios`)
+  - lottie-react-native (from `../node_modules/lottie-react-native`)
+  - React (from `../node_modules/react-native`)
+  - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JTSImageViewController
+
+EXTERNAL SOURCES:
+  BVLinearGradient:
+    :path: "../node_modules/react-native-linear-gradient"
+  lottie-ios:
+    :path: "../node_modules/lottie-ios"
+  lottie-react-native:
+    :path: "../node_modules/lottie-react-native"
+  React:
+    :path: "../node_modules/react-native"
+  yoga:
+    :path: "../node_modules/react-native/ReactCommon/yoga"
+
+SPEC CHECKSUMS:
+  BVLinearGradient: 6d8909e3fc6b089defa4b89d967441fa6827a2ee
+  JTSImageViewController: 1f8ce1cc93dab0d0af8e53badeea7528560cfec9
+  lottie-ios: 9f24be3ecb13412223b6ac70d97437742b0e3de1
+  lottie-react-native: db4bd75685428c4ad0ec2f913145abff3d38b640
+  React: 1fe0eb13d90b625d94c3b117c274dcfd2e760e11
+  yoga: b1ce48b6cf950b98deae82838f5173ea7cf89e85
+
+PODFILE CHECKSUM: 647e468509e7808c6895a34b957aad9091ff6ff6
+
+COCOAPODS: 1.5.3
